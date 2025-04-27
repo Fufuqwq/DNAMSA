@@ -1,1 +1,3 @@
-# DNAMSA
+solve是带优化的progressive alignment construction
+bruteForce是DP
+kmer是基于迭代优化的实现
